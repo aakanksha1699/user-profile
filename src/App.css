@@ -1,0 +1,196 @@
+.container{
+  position: absolute;
+  width: 460px;
+  height: 510px;
+  left: 0px;
+  top: 0px;
+  background: #464779;
+  }
+  
+  #back{
+  position: absolute;
+  left: 4px;
+  right: 16.67%;
+  top: 4px;
+  bottom: 16.67%;
+  color: #07A6F0;
+  }
+  
+  #close{
+  position: absolute;
+  left: 431px;
+  right: 20.83%;
+  top: 15px;
+  bottom: 20.83%;
+  color: #FFFFFF;
+  }
+
+.profile{
+height: 27px;
+width: 112px;
+left: 50px;
+top: 96px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.02em;
+position: absolute;
+color: #FFFFFF;
+border-radius: nullpx;
+}
+
+.pers{
+  height: 44px;
+width: 343px;
+left: 49px;
+top: 131px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+position: absolute;
+color: #FFFFFF;
+}
+
+.name{
+height: 24px;
+width: 360px;
+left: 50px;
+top: 196px;
+border-radius: nullpx;
+opacity: 0.5;
+position: absolute;
+}
+
+.name input{
+  font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.05em;
+position: absolute;
+border: hidden;
+outline: #464779;
+color: #FFFFFF;
+background-color: #464779;
+}
+
+#line1{
+position: absolute;
+width: 360px;
+height: 0px;
+left: 50px;
+top: 234px;
+border: 1px solid #07A6F0;
+}
+
+.dob{
+height: 24px;
+width: 360px;
+left: 49px;
+top: 261px;
+border-radius: nullpx;
+position: absolute;
+
+}
+
+.dob input{
+  font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+opacity: 0.5;
+border: hidden;
+outline: #464779;
+color: #FFFFFF;
+background-color: #464779
+}
+
+#line2{
+position: absolute;
+width: 360px;
+height: 0px;
+left: 49px;
+top: 299px;
+border: 1px solid #9798C2;
+}
+
+.gender{
+height: 24px;
+width: 360px;
+left: 50px;
+top: 326px;
+border-radius: nullpx;
+position: absolute;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+opacity: 0.5;
+}
+
+#male{
+  position: absolute;
+  left: 52px;
+  top: 357px;
+  right: 388px;
+  bottom: 133px;
+  background: #07A6F0;
+  height: 20px;
+  width: 20px;
+  border-radius: 0px;
+
+}
+
+#male input{
+
+}
+
+#female{
+position: absolute;
+background: #9798C2;
+height: 20px;
+width: 20px;
+left: 152px;
+right: 8.33%;
+bottom: 8.33%;
+top: 357px;
+border-radius: 0px;
+position: absolute;
+}
+
+#cont{
+height: 55.434783935546875px;
+width: 360px;
+left: 50px;
+top: 408.021728515625px;
+border-radius: 5px;
+position: absolute;
+border: hidden;
+color:white;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+letter-spacing: 0.05em;
+outline: #07A6F0;
+background: linear-gradient(180deg, #07A6F0 0%, #3136AD 100%), #07A6F0;
+}
+
+
+
+
